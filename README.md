@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Software Engineer
+I am currently working as a Software Engineer at BJIT Ltd.
 
 
 ## 🌐 Socials:
