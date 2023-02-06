@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Software Engineer at BJIT Ltd.
+Welcome to my GitHub profile! I'm Mohammad Joynul Abedin, a software engineer at BJIT Ltd, and a creative and passionate programmer with a love for solving complex problems and building innovative solutions. I'm dedicated to delivering high-quality code that is both functional and aesthetically pleasing. Whether working on a team or on my own, I strive to continually improve my skills and stay up-to-date with the latest developments in my field. Take a look around my profile to see my projects and feel free to reach out if you have any questions or want to collaborate!
 
 
 ## 🌐 Socials:
